@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "wellcome to Parsa Farinneya's page"
-excerpt: "About me"
+excerpt: "Abdfghjout me" 
 author_profile: true
 redirect_from: 
   - /about/
