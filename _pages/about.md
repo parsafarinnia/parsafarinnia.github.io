@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 I’m fascinated with deep learning, especially interested in Natural Language Process and its use in social networks, rumour detection, data mining, active learning and time series forecasting. I have done several research projects in these areas.
+
+
 **Rumour detection and verification in social media platforms**
 My bachelor thesis is on Rumour detection and verification in social media platforms. I have been working on this project under supervision of [Dr. Hamidian](http://scholar.google.com/citations?user=TuPmndQAAAAJ&hl=en). In this project I used different word embedding from BERT to ROBERTA to represent context of tweet and with the use of source tweet-replies structures and meta data provided by (twitter/ reddit)  to classify if a thread is rumour or not. Alongside rumour detection I had to train a model that determines the stance of the replies to source tweets, which could be helpful on verifying or denying the source rumour. You can find more about this project on [it’s github code] () and its [blog]().
 
