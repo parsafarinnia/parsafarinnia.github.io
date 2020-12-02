@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m fascinated with deep learning, especially interested in Natural Language Process and its use in social networks, rumour detection, data mining, active learning and time series forecasting. I have done several research projects in these areas.
+I’m an amirkabir university of technology graduate, and I'm fascinated with deep learning, especially interested in Natural Language Process and its use in social networks, rumour detection, data mining, active learning and time series forecasting. I have done several research projects in these areas.
 
 
 **Rumour detection and verification in social media platforms**
