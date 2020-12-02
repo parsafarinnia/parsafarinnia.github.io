@@ -1,7 +1,9 @@
 # main links links
 main:
+  - tiile: "Parsa Farinnia"
+    url: https://parsafarinnia.github.io
   - title: "CV"
-    url: /cv/
+    url: https://parsafarinnia.github.io/cv/
     
 #   - title: "Publications"
 #     url: /publications/
