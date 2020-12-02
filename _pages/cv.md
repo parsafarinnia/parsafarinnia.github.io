@@ -95,10 +95,10 @@ Teaching Experience
 
 Notable courses
 ======
-*Data structure: 20/20                                       *Algorithm Design: 19.25/20          
-*Information Retrieval: 17.96/20                             *Data Mining: PASS\*    
-*Computational Intelligence : 18/20                          *Engineering Statistics: 17.2/20
-*Applied linear Algebra: 16.43/20                            *Principles of  Programming: 19/20
-*Entrepreneurship and Business Planning: 20/20               *Introduction to Bioinformatics: PASS*
-*Principles of Database Design: 17.3/20                      *Operating Systems: 17.8/20
+*Data structure: 20/20&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp &nbsp *Algorithm Design: 19.25/20          
+*Information Retrieval: 17.96/20&nbsp &nbsp &nbsp &nbsp &nbsp &nbspData Mining: PASS\*    
+*Computational Intelligence : 18/20&nbsp &nbsp &nbsp &nbsp &nbsp *Engineering Statistics: 17.2/20
+*Applied linear Algebra: 16.43/20&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  *Principles of  Programming: 19/20
+*Entrepreneurship and Business Planning: 20/20&nbsp &nbsp &nbsp  *Introduction to Bioinformatics: PASS*
+*Principles of Database Design: 17.3/20&nbsp &nbsp &nbsp &nbsp &nbsp *Operating Systems: 17.8/20
 \* COVID-19 Semester Grades were binary due to COVID-19
