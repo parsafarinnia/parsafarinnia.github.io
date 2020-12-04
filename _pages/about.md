@@ -30,7 +30,7 @@ Currently I'm researching on developing an Active Transfer learning method for t
 - model ( MLP with different architectures, SVM, Random forest, ada boost, …)
 - active learning query strategy ( Least certainty, Core set, Margin based, ...)
 The goal is to train model that needs the least labeled data to hit a certain accuracy.. This project is ongoing and you can read more about this project on [it’s github code](https://github.com/parsafarinnia/sentiment_new_approach).
-
+This research was done under supervison of [Dr. Hamidian](http://scholar.google.com/citations?user=TuPmndQAAAAJ&hl=en)
 **EMNLP WNUT 2020 shared task2**
 
 In this shared task the goal was to develop a system that can determine if a tweet is informative and provides information on COVID. In this project we had to crawl tweets to get meta data and try different models to get the highest f1. Our system was accepted to workshop and our team (IntelligentCyborgs) are on the [leaderboard](https://arxiv.org/pdf/2010.08232.pdf). You can read more about this project on [it’s github code](https://github.com/parsafarinnia/WNUT2020_task2) and its [page](http://noisy-text.github.io/2020/).
