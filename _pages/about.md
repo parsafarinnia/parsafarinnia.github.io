@@ -12,7 +12,7 @@ I’m an amirkabir university of technology graduate, and I'm fascinated with de
 
 **Rumour detection and verification in social media platforms**
 
-My bachelor thesis is on Rumour detection and verification in social media platforms. I have been working on this project under supervision of [Dr. Hamidian](http://scholar.google.com/citations?user=TuPmndQAAAAJ&hl=en). In this project I used different word embedding from BERT to ROBERTA to represent context of tweet and with the use of source tweet-replies structures and meta data provided by (twitter/ reddit)  to classify if a thread is rumour or not. Alongside rumour detection I had to train a model that determines the stance of the replies to source tweets, which could be helpful on verifying or denying the source rumour. You can find more about this project on [it’s github code](https://github.com/parsafarinnia/rumoureval2019) .
+My bachelor thesis is on Rumour detection and verification in social media platforms. I have been working on this project under supervision of [Dr. Nazerfard](https://scholar.google.com/citations?user=Cl5tre8AAAAJ&hl=en). In this project I used different word embedding from BERT to ROBERTA to represent context of tweet and with the use of source tweet-replies structures and meta data provided by (twitter/ reddit)  to classify if a thread is rumour or not. Alongside rumour detection I had to train a model that determines the stance of the replies to source tweets, which could be helpful on verifying or denying the source rumour. You can find more about this project on [it’s github code](https://github.com/parsafarinnia/rumoureval2019) .
 
 
 **Transformer based oil price prediction**
